@@ -1,14 +1,14 @@
 # CollaberaTestTask
 
-##Enhancements or Changes
+## Enhancements or Changes
 Given more time, the following enhancements could be made:
 
-Error Handling: Improve error handling to provide more detailed feedback to the user in case of failures.
-Caching: Implement more robust caching mechanisms to reduce the number of requests to the Hacker News API and improve performance.
-Unit Tests: Add unit tests for service methods and controller actions to ensure code quality and reliability.
-Logging: Integrate a logging framework (e.g., Serilog or NLog) to provide better visibility into the application's runtime behavior.
-Pagination: Implement pagination for the best stories endpoint to manage large datasets and enhance performance.
-Deployment: Create deployment scripts or documentation for deploying the application to a cloud service like Azure or AWS.
+- Error Handling: Improve error handling to provide more detailed feedback to the user in case of failures.
+- Caching: Implement more robust caching mechanisms to reduce the number of requests to the Hacker News API and improve performance.
+- Unit Tests: Add unit tests for service methods and controller actions to ensure code quality and reliability.
+- Logging: Integrate a logging framework (e.g., Serilog or NLog) to provide better visibility into the application's runtime behavior.
+- Pagination: Implement pagination for the best stories endpoint to manage large datasets and enhance performance.
+- Deployment: Create deployment scripts or documentation for deploying the application to a cloud service like Azure or AWS.
 
 ## Description
 
